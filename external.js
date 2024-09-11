@@ -1,3 +1,2 @@
-//document.write("Nazifa Tabassum<br>");
-/*document.write("Jhenaidah<br>");
-document.write("Bangladesh<br>");*/
+document.write("Hello World!<br>");
+console.log("Hello World!<br>");
